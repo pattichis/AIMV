@@ -5,6 +5,8 @@
 Fast object detection by [detectron2](https://github.com/facebookresearch/detectron2?tab=readme-ov-file).
 
 ## PyTorch video documentation
+* [Video datasets](https://docs.pytorch.org/vision/main/datasets.html#video-classification).
+* [Optical Flow datasets for video motion estimation](https://docs.pytorch.org/vision/main/datasets.html#optical-flow).
 The main website of PyTorch video can be found at [their main page](https://pytorchvideo.org/).
 * [Models documentation](https://pytorchvideo.readthedocs.io/en/latest/models.html).
 * [Models on GitHub](https://github.com/facebookresearch/pytorchvideo/tree/main/pytorchvideo/models/hub).
@@ -12,3 +14,5 @@ The main website of PyTorch video can be found at [their main page](https://pyto
 * [Build your own model tutorial](https://pytorchvideo.org/docs/tutorial_accelerator_build_your_model#introduction).
 
 ## Medical video datasets
+* [Pediatric dataset](https://github.com/bryanhe/dynamic).
+* 
