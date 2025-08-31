@@ -19,10 +19,15 @@ The main website of PyTorch video can be found at [their main page](https://pyto
 
 ## Select PyTorch video classification
 * [Vision ResNet model](https://docs.pytorch.org/vision/stable/models/video_resnet.html).
-* [Video Swin Transformer model](https://docs.pytorch.org/vision/stable/models/video_swin_transformer.html).
+* [3D ResNet](https://pytorch.org/hub/facebookresearch_pytorchvideo_resnet/)
 * [X3D: Expanding Architectures for Efficient Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_x3d/).
 * [SlowFast Networks for Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_slowfast/).
 * [MViTv2: Improved Multiscale Vision Transformers for Classification and Detection](https://docs.pytorch.org/vision/main/models/video_mvit.html).
+* [Video Swin Transformer model](https://docs.pytorch.org/vision/stable/models/video_swin_transformer.html).
+
+
+## Guidelines for training 
+[Training on large datasets](https://github.com/pattichis/AIMV/blob/main/opt.md)
 
 ## Medical video datasets
 * [Pediatric dataset](https://github.com/bryanhe/dynamic).
