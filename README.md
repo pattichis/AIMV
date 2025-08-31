@@ -17,6 +17,13 @@ The main website of PyTorch video can be found at [their main page](https://pyto
 * [Pretrained models on specific datasets and performance](https://github.com/facebookresearch/pytorchvideo/blob/main/docs/source/model_zoo.md).
 * [Build your own model tutorial](https://pytorchvideo.org/docs/tutorial_accelerator_build_your_model#introduction).
 
+## Select PyTorch video classification
+* [Vision ResNet model](https://docs.pytorch.org/vision/stable/models/video_resnet.html).
+* [Video Swin Transformer model](https://docs.pytorch.org/vision/stable/models/video_swin_transformer.html).
+* [X3D: Expanding Architectures for Efficient Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_x3d/).
+* [SlowFast Networks for Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_slowfast/).
+* [MViTv2: Improved Multiscale Vision Transformers for Classification and Detection](https://docs.pytorch.org/vision/main/models/video_mvit.html).
+
 ## Medical video datasets
 * [Pediatric dataset](https://github.com/bryanhe/dynamic).
 
@@ -27,8 +34,6 @@ Video-based AI for beat-to-beat assessment of cardiac function
 * [Main echonet website](https://github.com/echonet).
 * [A Large Parasternal Long Axis Echocardiography Video Data Resource](https://echonet.github.io/lvh/)
 * [???](https://echonet.github.io/pediatric/index.html)
-* [EchoNet-Dynamic:
-Interpretable AI for beat-to-beat cardiac function assessment](https://github.com/echonet/dynamic)
+* [EchoNet-Dynamic: Interpretable AI for beat-to-beat cardiac function assessment](https://github.com/echonet/dynamic)
 
-https://github.com/bryanhe/dynamic
 
