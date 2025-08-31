@@ -1,12 +1,17 @@
 # Medical Video Projects Resources
 
 ## Select object detection links
-* []
-Fast object detection by [detectron2](https://github.com/facebookresearch/detectron2?tab=readme-ov-file).
+* Fast object detection by [detectron2](https://github.com/facebookresearch/detectron2?tab=readme-ov-file).
+
+## SAM2 foundation model
+* [SAM2 foundation model for video](https://github.com/facebookresearch/sam2).
+* [SAM2 paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/).
 
 ## PyTorch video documentation
 * [Video datasets](https://docs.pytorch.org/vision/main/datasets.html#video-classification).
+* [Video classification models](https://docs.pytorch.org/vision/main/datasets.html#video-classification).
 * [Optical Flow datasets for video motion estimation](https://docs.pytorch.org/vision/main/datasets.html#optical-flow).
+
 The main website of PyTorch video can be found at [their main page](https://pytorchvideo.org/).
 * [Models documentation](https://pytorchvideo.readthedocs.io/en/latest/models.html).
 * [Models on GitHub](https://github.com/facebookresearch/pytorchvideo/tree/main/pytorchvideo/models/hub).
