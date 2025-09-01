@@ -1,4 +1,4 @@
-# Optimization using PyTorch
+# Model Training
 
 ## [Main optimization link in PyTorch](https://docs.pytorch.org/docs/stable/optim.html)
 * [PyTorch optimization methods](https://docs.pytorch.org/docs/stable/optim.html#algorithms).
