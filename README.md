@@ -4,7 +4,8 @@ Video-based AI for beat-to-beat assessment of cardiac function
 ## Echonet datasets
 * [Main echonet website](https://github.com/echonet).
 * [A Large Parasternal Long Axis Echocardiography Video Data Resource](https://echonet.github.io/lvh/)
-* [???](https://echonet.github.io/pediatric/index.html)
+* [EchoNet-Peds:
+Video-Based Deep Learning for Automated Assessment of Left Ventricular Ejection Fraction in Pediatric Patients](https://github.com/bryanhe/dynamic/tree/pediatric)
 * [EchoNet-Dynamic: Interpretable AI for beat-to-beat cardiac function assessment](https://github.com/echonet/dynamic)
 
 ## Medical video datasets
