@@ -7,12 +7,12 @@
 
 ## [PyTorch video](https://pytorchvideo.org/)
 * [Models documentation](https://pytorchvideo.readthedocs.io/en/latest/models.html)
-* [Models on GitHub](https://github.com/facebookresearch/pytorchvideo/tree/main/pytorchvideo/models/hub).
-* [Pretrained models on specific datasets and performance](https://github.com/facebookresearch/pytorchvideo/blob/main/docs/source/model_zoo.md).
-* [Build your own model tutorial](https://pytorchvideo.org/docs/tutorial_accelerator_build_your_model#introduction).
+* [Models on GitHub](https://github.com/facebookresearch/pytorchvideo/tree/main/pytorchvideo/models/hub)
+* [Pretrained models on specific datasets and performance](https://github.com/facebookresearch/pytorchvideo/blob/main/docs/source/model_zoo.md)
+* [Build your own model tutorial](https://pytorchvideo.org/docs/tutorial_accelerator_build_your_model#introduction)
 
 ## Select PyTorch video classification models
-* [Vision ResNet model](https://docs.pytorch.org/vision/stable/models/video_resnet.html).
+* [Vision ResNet model](https://docs.pytorch.org/vision/stable/models/video_resnet.html)
 * [3D ResNet](https://pytorch.org/hub/facebookresearch_pytorchvideo_resnet/)
 * [X3D: Expanding Architectures for Efficient Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_x3d/)
 * [SlowFast Networks for Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_slowfast/)
@@ -28,7 +28,7 @@
 * [Optical Flow datasets for video motion estimation](https://docs.pytorch.org/vision/main/datasets.html#optical-flow)
 
 ## Select object detection links
-* Fast object detection by [detectron2](https://github.com/facebookresearch/detectron2?tab=readme-ov-file).
+* Fast object detection by [detectron2](https://github.com/facebookresearch/detectron2?tab=readme-ov-file)
 
 ## Guidelines for training models
 * [Model training information](https://github.com/pattichis/AIMV/blob/main/opt.md)
