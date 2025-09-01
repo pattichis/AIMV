@@ -27,9 +27,6 @@
 * [Video datasets](https://docs.pytorch.org/vision/main/datasets.html#video-classification)
 * [Optical Flow datasets for video motion estimation](https://docs.pytorch.org/vision/main/datasets.html#optical-flow)
 
-## Select object detection links
-* Fast object detection by [detectron2](https://github.com/facebookresearch/detectron2?tab=readme-ov-file)
-
 ## Guidelines for training models
 * [Model training information](https://github.com/pattichis/AIMV/blob/main/opt.md)
 
