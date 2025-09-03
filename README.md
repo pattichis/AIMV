@@ -5,10 +5,11 @@
 * [SurgeryVideoQA](https://huggingface.co/datasets/connectthapa84/SurgeryVideoQA)
 * [MIMIC-IV-ECHO: Echocardiogram Matched Subset](https://physionet.org/content/mimic-iv-echo/0.1/)
   
-## [Echonet datasets](https://github.com/echonet)
+## [Echonet datasets and models](https://github.com/echonet)
 * [EchonNet-LVH: A Large Parasternal Long Axis Echocardiography Video Dataset, Model, and  Paper](https://echonet.github.io/lvh/)
 * [EchoNet-Pediatric: A Large Pediatric Echocardiography Video Dataset, Model, and Paper](https://echonet.github.io/pediatric/index.html)
 * [EchoNet-Dynamic: Interpretable AI for beat-to-beat cardiac function assessment Dataset, Model, and Paper](https://github.com/echonet/dynamic)
+* [EchoNet: Tee-View-Classifier model, datasets, and paper](https://aimi.stanford.edu/datasets/echonet-tee-view-classifier)
 
 ## Others
 * [Endora: Video Generation Models as Endoscopy Simulators](https://endora-medvidgen.github.io/)
