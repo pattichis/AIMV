@@ -1,9 +1,14 @@
 # Medical Video Projects Resources
 
-[Foundation Model for Endoscopy Video Analysis](https://github.com/openmedlab/Endo-FM)
-[A multimodal video dataset of human spermatozoa](https://www.kaggle.com/datasets/stevenhicks/visem-video-dataset)
+* [Foundation Model for Endoscopy Video Analysis](https://github.com/openmedlab/Endo-FM)
+* [A multimodal video dataset of human spermatozoa](https://www.kaggle.com/datasets/stevenhicks/visem-video-dataset)
 
-## [How Well Can General Vision-Language Models Learn Medicine By Watching Public Educational Videos?](https://arxiv.org/abs/2504.14391)
+
+## Instructional Medical Videos
+### [A dataset for medical instructional video classification and question answering](https://www.nature.com/articles/s41597-023-02036-y)
+* [MedVidQACL](https://github.com/deepaknlp/MedVidQACL)
+  
+### [How Well Can General Vision-Language Models Learn Medicine By Watching Public Educational Videos?](https://arxiv.org/abs/2504.14391)
 * [OpenBiomedVid](https://github.com/zou-group/OpenBiomedVid)
 * [SurgeryVideoQA](https://huggingface.co/datasets/connectthapa84/SurgeryVideoQA)
 * [MIMIC-IV-ECHO: Echocardiogram Matched Subset](https://physionet.org/content/mimic-iv-echo/0.1/)
