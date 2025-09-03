@@ -9,7 +9,7 @@
 * [EchonNet-LVH: A Large Parasternal Long Axis Echocardiography Video Dataset, Model, and  Paper](https://echonet.github.io/lvh/)
 * [EchoNet-Pediatric: A Large Pediatric Echocardiography Video Dataset, Model, and Paper](https://echonet.github.io/pediatric/index.html)
 * [EchoNet-Dynamic: Interpretable AI for beat-to-beat cardiac function assessment Dataset, Model, and Paper](https://github.com/echonet/dynamic)
-* [EchoNet: Tee-View-Classifier model, datasets, and paper](https://aimi.stanford.edu/datasets/echonet-tee-view-classifier)
+* [EchoNet: Tee-View-Classifier datasets and paper](https://aimi.stanford.edu/datasets/echonet-tee-view-classifier) and [model](https://github.com/echonet/tee-view-classifier)
 
 ## Others
 * [Endora: Video Generation Models as Endoscopy Simulators](https://endora-medvidgen.github.io/)
