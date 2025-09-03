@@ -29,7 +29,7 @@
 * [MViTv2: Improved Multiscale Vision Transformers for Classification and Detection](https://docs.pytorch.org/vision/main/models/video_mvit.html)
 * [Video Swin Transformer model](https://docs.pytorch.org/vision/stable/models/video_swin_transformer.html)
 
-## SAM2 foundation model
+## [SAM2 foundation model](https://ai.meta.com/sam2/)
 * [SAM2 foundation model for video](https://github.com/facebookresearch/sam2)
 * [SAM2 paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/)
 
