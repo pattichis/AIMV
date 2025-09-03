@@ -1,5 +1,10 @@
 # Medical Video Projects Resources
 
+## [How Well Can General Vision-Language Models Learn Medicine By Watching Public Educational Videos?](https://arxiv.org/abs/2504.14391)
+* [OpenBiomedVid](https://github.com/zou-group/OpenBiomedVid)
+* [SurgeryVideoQA](https://huggingface.co/datasets/connectthapa84/SurgeryVideoQA)
+* [MIMIC-IV-ECHO: Echocardiogram Matched Subset](https://physionet.org/content/mimic-iv-echo/0.1/)
+  
 ## [Echonet datasets](https://github.com/echonet)
 * [EchonNet-LVH: A Large Parasternal Long Axis Echocardiography Video Dataset, Model, and  Paper](https://echonet.github.io/lvh/)
 * [EchoNet-Pediatric: A Large Pediatric Echocardiography Video Dataset, Model, and Paper](https://echonet.github.io/pediatric/index.html)
