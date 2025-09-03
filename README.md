@@ -5,10 +5,12 @@
 * [EchoNet-Pediatric: A Large Pediatric Echocardiography Video Dataset, Model, and Paper](https://echonet.github.io/pediatric/index.html)
 * [EchoNet-Dynamic: Interpretable AI for beat-to-beat cardiac function assessment Dataset, Model, and Paper](https://github.com/echonet/dynamic)
 
-## Medical video related datasets
+## Others
+* [Endora: Video Generation Models as Endoscopy Simulators](https://endora-medvidgen.github.io/)
+  
+## Medical video-related datasets
 * [A public endoscopic video dataset for polyp detection](https://github.com/dashishi/LDPolypVideo-Benchmark)
 * [Carotid Ultrasound Boundary Study (CUBS): Technical considerations on an open multi-center analysis of computerized measurement systems for intima-media thickness measurement on common carotid artery longitudinal B-mode ultrasound scans](https://data.mendeley.com/datasets/m7ndn58sv6/1)
-* [DISIML models](https://alvarouc.gitlab.io/disiml/)
   
 ## [PyTorch video](https://pytorchvideo.org/)
 * [Models documentation](https://pytorchvideo.readthedocs.io/en/latest/models.html)
@@ -16,6 +18,9 @@
 * [Pretrained models on specific datasets and performance](https://github.com/facebookresearch/pytorchvideo/blob/main/docs/source/model_zoo.md)
 * [Build your own model tutorial](https://pytorchvideo.org/docs/tutorial_accelerator_build_your_model#introduction)
 
+## Select Tensorflow models for video and multimodal risk assessment
+* [DISIML models: Echo, ECG, tabular data models, and autoencoders for dimensionality reduction](https://alvarouc.gitlab.io/disiml/)
+  
 ## Select PyTorch video classification models
 * [Vision ResNet model](https://docs.pytorch.org/vision/stable/models/video_resnet.html)
 * [3D ResNet](https://pytorch.org/hub/facebookresearch_pytorchvideo_resnet/)
