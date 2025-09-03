@@ -1,5 +1,7 @@
 # Medical Video Projects Resources
 
+[Foundation Model for Endoscopy Video Analysis](https://github.com/openmedlab/Endo-FM)
+
 ## [How Well Can General Vision-Language Models Learn Medicine By Watching Public Educational Videos?](https://arxiv.org/abs/2504.14391)
 * [OpenBiomedVid](https://github.com/zou-group/OpenBiomedVid)
 * [SurgeryVideoQA](https://huggingface.co/datasets/connectthapa84/SurgeryVideoQA)
