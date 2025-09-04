@@ -6,8 +6,9 @@
 * Supports 3 types of downstream tasks, including classification, segmentation, and detection.
 
 ## Instructional Medical Videos
-### [A dataset for medical instructional video classification and question answering](https://www.nature.com/articles/s41597-023-02036-y)
-* [MedVidQACL](https://github.com/deepaknlp/MedVidQACL)
+### A dataset for medical instructional video classification and question answering
+* [MedVidQACL datasets and models](https://github.com/deepaknlp/MedVidQACL)
+* [Paper](https://www.nature.com/articles/s41597-023-02036-y)
   
 ### [How Well Can General Vision-Language Models Learn Medicine By Watching Public Educational Videos?](https://arxiv.org/abs/2504.14391)
 * Main website with model: [OpenBiomedVid](https://github.com/zou-group/OpenBiomedVid)
