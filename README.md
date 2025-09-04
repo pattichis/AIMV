@@ -10,13 +10,12 @@
 * [MedVidQACL](https://github.com/deepaknlp/MedVidQACL)
   
 ### [How Well Can General Vision-Language Models Learn Medicine By Watching Public Educational Videos?](https://arxiv.org/abs/2504.14391)
-### Datasets
-* [OpenBiomedVid](https://github.com/zou-group/OpenBiomedVid)
+* Main website with model: [OpenBiomedVid](https://github.com/zou-group/OpenBiomedVid)
+* [OpenBiomedVid dataset](https://huggingface.co/datasets/connectthapa84/OpenBiomedVid)
 * [SurgeryVideoQA](https://huggingface.co/datasets/connectthapa84/SurgeryVideoQA)
 * [MIMIC-IV-ECHO: Echocardiogram Matched Subset](https://physionet.org/content/mimic-iv-echo/0.1/)
-### Models
-* [OpenAI o3 and o4-mini System](https://openai.com/index/o3-o4-mini-system-card/)
-* [OpenAI](https://github.com/openai/gpt-oss)
+* [Related OpenAI o3 and o4-mini System](https://openai.com/index/o3-o4-mini-system-card/)
+* [OpenAI models](https://github.com/openai/gpt-oss)
   
 ## [Echonet datasets and models](https://github.com/echonet)
 * [EchonNet-LVH: A Large Parasternal Long Axis Echocardiography Video Dataset, Model, and  Paper](https://echonet.github.io/lvh/)
