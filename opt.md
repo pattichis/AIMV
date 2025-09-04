@@ -9,8 +9,5 @@
 * [Step learning rate scheduler](https://docs.pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.StepLR.html)
 * [Reduce the learning rate when we reach a plateau](https://docs.pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.ReduceLROnPlateau.html) 
 
-Many methods are covered by:
-```
-   Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka.
-```
-You can access the book through its [arxiv link](https://arxiv.org/abs/1811.12808).
+For evaluating your models, consider
+   [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka.](https://arxiv.org/abs/1811.12808).
