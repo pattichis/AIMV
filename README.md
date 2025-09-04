@@ -5,8 +5,6 @@
 * A large-scale endoscopic video dataset with over 33K video clips.
 * Supports 3 types of downstream tasks, including classification, segmentation, and detection.
 
-[A multimodal video dataset of human spermatozoa](https://www.kaggle.com/datasets/stevenhicks/visem-video-dataset)
-
 ## Instructional Medical Videos
 ### [A dataset for medical instructional video classification and question answering](https://www.nature.com/articles/s41597-023-02036-y)
 * [MedVidQACL](https://github.com/deepaknlp/MedVidQACL)
@@ -25,7 +23,7 @@
 ## Generative AI Video Models
 * [Endora: Video Generation Models as Endoscopy Simulators](https://github.com/CUHK-AIM-Group/Endora)
   
-## Medical video-related datasets
+## Other Medical video-related datasets
 * [A multimodal video dataset of human spermatozoa](https://www.kaggle.com/datasets/stevenhicks/visem-video-dataset)
 * [A public endoscopic video dataset for polyp detection](https://github.com/dashishi/LDPolypVideo-Benchmark)
 * [Carotid Ultrasound Boundary Study (CUBS): Technical considerations on an open multi-center analysis of computerized measurement systems for intima-media thickness measurement on common carotid artery longitudinal B-mode ultrasound scans](https://data.mendeley.com/datasets/m7ndn58sv6/1)
