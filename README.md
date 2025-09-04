@@ -1,8 +1,11 @@
 # Medical Video Projects Resources
 
-* [Foundation Model for Endoscopy Video Analysis](https://github.com/openmedlab/Endo-FM)
-* [A multimodal video dataset of human spermatozoa](https://www.kaggle.com/datasets/stevenhicks/visem-video-dataset)
+## [Foundation Model for Endoscopy Video Analysis](https://github.com/openmedlab/Endo-FM)
+* Contains links to 10 different endoscopy video datasets.
+* A large-scale endoscopic video dataset with over 33K video clips.
+* Supports 3 types of downstream tasks, including classification, segmentation, and detection.
 
+[A multimodal video dataset of human spermatozoa](https://www.kaggle.com/datasets/stevenhicks/visem-video-dataset)
 
 ## Instructional Medical Videos
 ### [A dataset for medical instructional video classification and question answering](https://www.nature.com/articles/s41597-023-02036-y)
