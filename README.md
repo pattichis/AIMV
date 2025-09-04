@@ -22,10 +22,11 @@
 * [EchoNet-Dynamic: Interpretable AI for beat-to-beat cardiac function assessment Dataset, Model, and Paper](https://github.com/echonet/dynamic)
 * [EchoNet: Tee-View-Classifier datasets and paper](https://aimi.stanford.edu/datasets/echonet-tee-view-classifier) and [model](https://github.com/echonet/tee-view-classifier)
 
-## Others
-* [Endora: Video Generation Models as Endoscopy Simulators](https://endora-medvidgen.github.io/)
+## Generative AI Video Models
+* [Endora: Video Generation Models as Endoscopy Simulators](https://github.com/CUHK-AIM-Group/Endora)
   
 ## Medical video-related datasets
+* [A multimodal video dataset of human spermatozoa](https://www.kaggle.com/datasets/stevenhicks/visem-video-dataset)
 * [A public endoscopic video dataset for polyp detection](https://github.com/dashishi/LDPolypVideo-Benchmark)
 * [Carotid Ultrasound Boundary Study (CUBS): Technical considerations on an open multi-center analysis of computerized measurement systems for intima-media thickness measurement on common carotid artery longitudinal B-mode ultrasound scans](https://data.mendeley.com/datasets/m7ndn58sv6/1)
   
