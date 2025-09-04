@@ -19,10 +19,11 @@
 * [OpenAI models](https://github.com/openai/gpt-oss)
   
 ## [Echonet datasets and models](https://github.com/echonet)
-* [EchonNet-LVH: A Large Parasternal Long Axis Echocardiography Video Dataset, Model, and  Paper](https://echonet.github.io/lvh/)
+* [EchonNet-LVH: A Large Parasternal Long Axis Echocardiography Video Dataset, Model, and  Paper](https://echonet.github.io/lvh/), [model](https://github.com/echonet/lvh), [paper](https://jamanetwork.com/journals/jamacardiology/fullarticle/2789370).
 * [EchoNet-Pediatric: A Large Pediatric Echocardiography Video Dataset, Model, and Paper](https://echonet.github.io/pediatric/index.html)
 * [EchoNet-Dynamic: Interpretable AI for beat-to-beat cardiac function assessment Dataset, Model, and Paper](https://github.com/echonet/dynamic)
 * [EchoNet: Tee-View-Classifier datasets and paper](https://aimi.stanford.edu/datasets/echonet-tee-view-classifier) and [model](https://github.com/echonet/tee-view-classifier)
+* 
 
 ## Generative AI Video Models
 * [Endora: Video Generation Models as Endoscopy Simulators](https://github.com/CUHK-AIM-Group/Endora)
