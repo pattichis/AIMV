@@ -10,6 +10,7 @@
 * [Reduce the learning rate when we reach a plateau](https://docs.pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.ReduceLROnPlateau.html) 
 
 Many methods are covered by:
-```Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning
-   by Sebastian Raschka.```
+```
+   Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka.
+```
 You can access the book through its [arxiv link](https://arxiv.org/abs/1811.12808).
