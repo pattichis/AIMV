@@ -40,6 +40,8 @@
 
 ## Select Tensorflow models for video and multimodal risk assessment
 * [DISIML models: Echo, ECG, tabular data models, and autoencoders for dimensionality reduction](https://alvarouc.gitlab.io/disiml/)
+* [A Large-scale Multimodal Study for Predicting Mortality Risk Using Minimal and Low Parameter Models and Separable Risk Assessment](https://ieeexplore.ieee.org/abstract/document/10839321)
+* [Deep-learning-assisted analysis of echocardiographic videos improves predictions of all-cause mortality](https://www.nature.com/articles/s41551-020-00667-9)
   
 ## Select PyTorch video classification models
 * [Vision ResNet model](https://docs.pytorch.org/vision/stable/models/video_resnet.html)
