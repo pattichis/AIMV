@@ -1,5 +1,13 @@
 # Medical Video Projects Resources
 
+# Echocardiography
+## [Echonet datasets and models](https://github.com/echonet)
+* [EchonNet-LVH: A Large Parasternal Long Axis Echocardiography Video Dataset, Model, and  Paper](https://echonet.github.io/lvh/), [model](https://github.com/echonet/lvh), [paper](https://jamanetwork.com/journals/jamacardiology/fullarticle/2789370).
+* [EchoNet-Pediatric: A Large Pediatric Echocardiography Video Dataset and Model link](https://echonet.github.io/pediatric/index.html), [paper](https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S0894731723000688?returnurl=https:%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0894731723000688%3Fshowall%3Dtrue&referrer=https:%2F%2Fpubmed.ncbi.nlm.nih.gov%2F).
+* [EchoNet-Dynamic: Interpretable AI for beat-to-beat cardiac function assessment Dataset, Model, and Paper](https://github.com/echonet/dynamic)
+* [EchoNet: Tee-View-Classifier datasets and paper](https://aimi.stanford.edu/datasets/echonet-tee-view-classifier) and [model](https://github.com/echonet/tee-view-classifier)
+* [EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing](https://github.com/HReynaud/EchoNet-Synthetic) and [paper](https://arxiv.org/abs/2406.00808) (also see Generative AI Video Models).
+
 ## [Foundation Model for Endoscopy Video Analysis](https://github.com/openmedlab/Endo-FM)
 * Contains links to 10 different endoscopy video datasets.
 * A large-scale endoscopic video dataset with over 33K video clips.
@@ -18,13 +26,6 @@
 * [Related OpenAI o3 and o4-mini System](https://openai.com/index/o3-o4-mini-system-card/)
 * [OpenAI models](https://github.com/openai/gpt-oss)
   
-## [Echonet datasets and models](https://github.com/echonet)
-* [EchonNet-LVH: A Large Parasternal Long Axis Echocardiography Video Dataset, Model, and  Paper](https://echonet.github.io/lvh/), [model](https://github.com/echonet/lvh), [paper](https://jamanetwork.com/journals/jamacardiology/fullarticle/2789370).
-* [EchoNet-Pediatric: A Large Pediatric Echocardiography Video Dataset and Model link](https://echonet.github.io/pediatric/index.html), [paper](https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S0894731723000688?returnurl=https:%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0894731723000688%3Fshowall%3Dtrue&referrer=https:%2F%2Fpubmed.ncbi.nlm.nih.gov%2F).
-* [EchoNet-Dynamic: Interpretable AI for beat-to-beat cardiac function assessment Dataset, Model, and Paper](https://github.com/echonet/dynamic)
-* [EchoNet: Tee-View-Classifier datasets and paper](https://aimi.stanford.edu/datasets/echonet-tee-view-classifier) and [model](https://github.com/echonet/tee-view-classifier)
-* [EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing](https://github.com/HReynaud/EchoNet-Synthetic) and [paper](https://arxiv.org/abs/2406.00808) (also see Generative AI Video Models).
-
 ## Generative AI Video Models
 * [EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing](https://github.com/HReynaud/EchoNet-Synthetic) and [paper](https://arxiv.org/abs/2406.00808)  (also see Echonet datasets and models).
 * [Endora: Video Generation Models as Endoscopy Simulators](https://github.com/CUHK-AIM-Group/Endora)
