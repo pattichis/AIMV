@@ -34,8 +34,10 @@ Click on the Outline button (upper-right button in GitHub) to jump to a particul
 * [OpenAI models](https://github.com/openai/gpt-oss)
 
 # Generative AI Video Models
-## [EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing](https://github.com/HReynaud/EchoNet-Synthetic) and [paper](https://arxiv.org/abs/2406.00808)  (also see Echonet datasets and models).
-## [Endora: Video Generation Models as Endoscopy Simulators](https://github.com/CUHK-AIM-Group/Endora)
+## EchoNet-Synthetic
+* [EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing](https://github.com/HReynaud/EchoNet-Synthetic) and [paper](https://arxiv.org/abs/2406.00808)  (also see Echonet datasets and models).
+## Endora
+* [Endora: Video Generation Models as Endoscopy Simulators](https://github.com/CUHK-AIM-Group/Endora)
 
 # Other Medical video-related datasets
 * [A multimodal video dataset of human spermatozoa](https://www.kaggle.com/datasets/stevenhicks/visem-video-dataset)
