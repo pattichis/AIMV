@@ -1,4 +1,6 @@
 # Medical Video Resources
+This document contains links to recent datasets, models, and papers related to medical video analysis.<br />
+Click on the overview button (upper-right button in GitHub) to jump to a particular topic.
 
 # Echocardiography
 ## [Echonet datasets and models](https://github.com/echonet)
